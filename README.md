@@ -2,6 +2,9 @@
 # CRONÔMETRO
 Desenvolvimento de um cronômetro com Javascript.
 
+
+<img src="https://user-images.githubusercontent.com/110337546/184050505-254802ba-f0bc-4c5b-a7c5-c67ef94ac3de.gif" width="250" height="490">
+
 ## 🎯 About
 Colocar em prática conhecimentos adquiridos e transmitir mensagens de boas vibrações.
 
