@@ -26,7 +26,7 @@ Antes de começar, você precisa ter [Git](https://git-scm.com), [Node](https://
  git clone https://github.com/devrodriguesz/app-cronometro.git
   
  # Access
- cd biscoito-da-sorte
+ cd app-cronometro
   
  # Install dependencies
  npm install --global yarn
